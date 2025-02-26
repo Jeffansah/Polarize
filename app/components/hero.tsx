@@ -19,7 +19,7 @@ const Hero = () => {
             </p>
           </div>
           <div className="space-x-4">
-            <Button variant="default" href="/photo-booth">
+            <Button variant="default" href="/welcome">
               Start Creating
             </Button>
             <Button variant="outline" href="/pricing">

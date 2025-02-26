@@ -15,7 +15,7 @@ const Cta = () => {
           <Button
             variant="default"
             className="bg-white px-8 py-3 text-purple-500"
-            href="/photo-booth"
+            href="/welcome"
           >
             Get Started
           </Button>
